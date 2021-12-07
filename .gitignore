@@ -1,0 +1,10 @@
+node_modules
+dist
+data
+coverage/
+!src/data
+.vscode
+.scannerwork/
+globanConfig.json
+.idea
+.env
